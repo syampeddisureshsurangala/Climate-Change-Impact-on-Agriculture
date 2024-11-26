@@ -20,4 +20,6 @@ A line graph in the bottom center shows the economic impact of climate change on
 
 ### Extreme Weather Events by Country
 Another donut chart at the bottom right displays the percentage of extreme weather events by country, including the USA, Nigeria, Australia, Argentina, Canada, China, India, and Brazil.
+
+
 <img width="574" alt="Climate Change Impact on Agriculture" src="https://github.com/user-attachments/assets/a405a0a9-482d-4742-ad7c-c61f693ace60">
